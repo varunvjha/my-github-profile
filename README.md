@@ -12,7 +12,7 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/__va__run__/)
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:jha.varun6@gmail.com)
 [<img src ="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white%22">](https://drive.google.com/file/d/1LTk9DnstpA3xoWkQyd7L0QKS8lNkY-XL/view?usp=sharing)
-  ![Visits Badge](https://badges.pufler.dev/visits/varunvjha/my-github-profile?style=for-the-badge)
+![Visits Badge](https://badges.pufler.dev/visits/varunvjha/varunvjha?style=for-the-badge)
 
 ---
 
