@@ -1,4 +1,4 @@
-# Hey there,<br>I am Varun Vaibhav Jha.
+# Hey there<img src="https://raw.githubusercontent.com/varunvjha/varunvjha/main/wave.gif" width="30px"><br>I am Varun Vaibhav Jha.
 
 ### I am Varun, a budding app developer and a machine learning enthusiast. I like working with Java, Python & Kotlin. I am currently pursuing my Bachelor's in Computer Science with specialization in AI & ML and I am in my 6th semester. I am a 3 star Competitive coder on Codechef, and getting started with Codeforces as well.
 
